@@ -10,6 +10,8 @@ The game operates on the Ethereum blockchain, utilizing smart contracts to autom
 
 ## **Contract Address**
 0x1d5fb9428fd0a13fb27c824fbedf391cabf85e22
+![image](https://github.com/user-attachments/assets/3d972357-ca48-46e6-b9d6-92b4e5c7d2b2)
+
 
 ## **Project Vision**
 The vision of this project is to integrate educational physics puzzles with blockchain technology, providing a fun and rewarding experience for players. The play-to-earn model aims to engage players by offering real-world value for their time and problem-solving skills. By leveraging Ethereum smart contracts, the game ensures fairness, security, and transparency for every user interaction.
